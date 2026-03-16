@@ -43,3 +43,19 @@ Cálculo da representatividade de cada produto no faturamento total.
 ## Autor
 
 Projeto desenvolvido como parte da construção de portfólio na área de **Análise de Dados**.
+
+---
+
+## Visualizações
+
+### Faturamento por Produto
+
+![Faturamento por Produto](grafico_faturamento_produto.png)
+
+### Evolução Mensal do Faturamento
+
+![Evolução Mensal](grafico_faturamento_mensal.png)
+
+### Participação Percentual do Faturamento
+
+![Participação](grafico_participacao_produto.png)
