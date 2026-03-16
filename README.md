@@ -59,3 +59,11 @@ Projeto desenvolvido como parte da construção de portfólio na área de **Aná
 ### Participação Percentual do Faturamento
 
 ![Participação](grafico_participacao_produto.png)
+
+---
+
+## Conclusão
+
+A análise permitiu identificar padrões importantes no desempenho de vendas, como os produtos com maior impacto financeiro e as variações de faturamento ao longo do tempo.
+
+Projetos neste formato demonstram como ferramentas de análise de dados podem ser utilizadas para apoiar decisões estratégicas em ambientes comerciais, identificando tendências e oportunidades de melhoria.
