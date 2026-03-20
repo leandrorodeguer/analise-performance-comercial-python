@@ -67,3 +67,9 @@ Projeto desenvolvido como parte da construção de portfólio na área de **Aná
 A análise permitiu identificar padrões importantes no desempenho de vendas, como os produtos com maior impacto financeiro e as variações de faturamento ao longo do tempo.
 
 Projetos neste formato demonstram como ferramentas de análise de dados podem ser utilizadas para apoiar decisões estratégicas em ambientes comerciais, identificando tendências e oportunidades de melhoria.
+
+---
+
+## 📂 Fonte dos Dados
+
+Os dados utilizados neste projeto são fictícios e foram criados para fins de estudo e simulação de análise de performance comercial.
