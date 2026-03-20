@@ -50,15 +50,15 @@ Projeto desenvolvido como parte da construção de portfólio na área de **Aná
 
 ### Faturamento por Produto
 
-![Faturamento por Produto](grafico_faturamento_produto.png)
+![Faturamento](./imagens/grafico_faturamento_produto.png)
 
 ### Evolução Mensal do Faturamento
 
-![Evolução Mensal](grafico_faturamento_mensal.png)
+![Evolução Mensal](./imagens/grafico_faturamento_mensal.png)
 
 ### Participação Percentual do Faturamento
 
-![Participação](grafico_participacao_produto.png)
+![Participação](.imagens/grafico_participacao_produto.png)
 
 ---
 
