@@ -58,7 +58,7 @@ Projeto desenvolvido como parte da construção de portfólio na área de **Aná
 
 ### Participação Percentual do Faturamento
 
-![Participação](.imagens/grafico_participacao_produto.png)
+![Participação](./imagens/grafico_participacao_produto.png)
 
 ---
 
